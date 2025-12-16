@@ -1,2 +1,4 @@
 # Face-Detection
 Built an OpenCV-based face detection system that analyzes images and live webcam video using Haar Cascade classifiers. The program detects faces, draws bounding boxes, and displays or saves results. The project is modular and designed for easy expansion into real-time or advanced detection features.
+The purpose of this project is to design and implement a Python-based face detection system using OpenCV and Haar Cascade classifiers. The project demonstrates how computer vision techniques can be applied to detect human faces in both static images and real-time webcam video streams, serving as a foundation for more advanced applications such as facial recognition, eye detection, and security systems
+This project was created by github usernames: ibraheemabdool1-wq and themaker90.
